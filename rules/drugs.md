@@ -17,8 +17,8 @@ If you roll a 1, the die steps down one size category. (e.g. d20 -> d12 -> d10 -
 If you are addicted to a drug, your addiction die permanently becomes d4, and you must ingest the drug at least once each week. Otherwise, you roll at disadvantage.
 
 
-| d20  | COLOUR   | FORM    | INGESTED BY               | EFFECT (x2)             | ADDICTION DIE |
-| ---- | -------- | ------- | ------------------------- | ----------------------- | ------------- |
+| d20  | Color    | Form    | Ingested by               | Effect (x2)             | Addiction Die |
+| :---- | :-------- | :------- | :------------------------- | :----------------------- | :------------- |
 | 1    | Red      | Sugar   | Snorting                  | Euphoria                | d4            |
 | 2    | Blue     | Leaf    | Injected                  | Paranoia                | d6            |
 | 3    | Yellow   | Crystal | Stewed                    | Auditory Hallucinations | d6            |
