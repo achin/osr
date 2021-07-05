@@ -24,10 +24,10 @@ Psionic powers work similarly to [GLOG Magic](https://cairnrpg.com/hacks/glog-ma
 
 | Sum  | Backlash |
 | :---- | :-------- |
-| 2    |          |
-| 3    |          |
-| 4    |          |
-| 5    |          |
+| 2    | Your nose bleeds profusely for the next hour and you cannot use any psionic powers for 1d6 hours. |
+| 3    | For the next 24 hours, when using a psionic power, you gain a Fatigue on a roll of 3-6. |
+| 4    | You can barely walk until you complete [dice] short or long rests. |
+| 5    | You hear the surface thoughts of living creature within 30' of you. |
 | 6    |          |
 | 7    |          |
 | 8    |          |
