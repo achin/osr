@@ -78,11 +78,11 @@ There are three **Psionic Powers** that may be used as **Psionic Defense Modes**
 
 A Psionic Attack Mode's effectiveness depends on the Psionic Defense Mode a target has active, if any. 
 
-|                            | Mental Barrier (STR) | Mind Blank (DEX) | Intellect Fortress (WIL) |
-| -------------------------- | -------------------- | ---------------- | ------------------------ |
-| **Psychic Crush (STR)**    | Diminished           | Augmented        | Normal                   |
-| **Synapse Overload (DEX)** | Normal               | Diminished       | Augmented                |
-| **Mind Spike (WIL)**       | Augmented            | Normal           | Diminished               |
+|                            | Mental Barrier (STR) | Mind Blank (DEX) | Intellect Fortress (WIL) | None   |
+| :-------------------------- | :-------------------- | :---------------- | :------------------------ | :------ |
+| **Psychic Crush (STR)**    | Diminished           | Augmented        | Normal                   | Normal |
+| **Synapse Overload (DEX)** | Normal               | Diminished       | Augmented                | Normal |
+| **Mind Spike (WIL)**       | Augmented            | Normal           | Diminished               | Normal |
 
 * **Normal**. Deal [attack-mode-sum] minus [defense-mode-sum] damage to the defender's associated ability score.
 * **Augmented**. Deal 2*[attack-mode-sum] minus [defense-mode-sum] damage to the defender's associated ability score.

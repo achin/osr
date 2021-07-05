@@ -1,6 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: Home
+nav_order: 0
 ---
+
+This is a collection of custom rule hacks for the [Cairn](https://cairnrpg.com) adventure
+game.
